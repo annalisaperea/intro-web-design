@@ -1,0 +1,51 @@
+/*****************Section Tags****************/
+section {
+    margin-top: 100px;
+    width: 48%;
+    float: left;
+}
+
+#physical-info-side{
+    /*margin-left: 150px;*/
+}
+
+
+/*********CONTACT FORM IFRAME SECTION**********/
+#form1>#header {
+    visibility: hidden;
+    width: 300px;
+    height: 300px;
+}
+    
+#contact-form-wrapper {
+    background-color: #fff;
+}
+
+iframe {
+    clear: both;
+    height: 550px;
+    width: 500px;
+}
+
+.locate {
+    padding-left: 35px;
+}
+
+
+
+
+/************PHYSICAL INFO SECTION********/
+address {
+    margin-top: 150px
+}
+
+#physical-info-side {
+font-family: 'Open Sans', sans-serif;
+}
+
+button {
+    background-color: #ba4a50;
+    color: red;
+}
+
+
